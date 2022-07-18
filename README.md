@@ -12,4 +12,7 @@ Installation
 HOW TO
 -----------------------------------
 * `import poosay`
-* 
+* `poosay.xprint("/r/RED /g/Green /i/invert /u/Underlined /=/Normal")`
+
+
+# Check the file for more tricks
