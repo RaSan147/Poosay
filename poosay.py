@@ -412,6 +412,8 @@ if __name__ == '__main__':
 		oneline._update(i, end="", run_at_start=xx)
 		sleep(.02)
 
+	print()
+
 	xprint("/rhu/hello/=/ q to quit")
 
 	x = ''
